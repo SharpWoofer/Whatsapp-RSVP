@@ -1,5 +1,5 @@
-# Whatsapp-RSVP 📝
 Tired of tracking all your attendees when you host a party? Let this bot do it for you! 👾
+# Whatsapp-RSVP 📝
 
 ## About
 
