@@ -9,11 +9,11 @@ It makes it easier for the host to view at a glance:
 
 ## How to use
 Firstly, the host must link their Whatsapp account to the bot.
-'!start' gives an overview of instructions
-'!add Name Number' allows an attendee to add their name along with number of pax. Subsequent number changes to the same name will reflect the new value.
-'!add Name 0' removes the attendee fromn the list
-'!list' prints the list that shows each attendee's name along with number of pax, and the total number of pax
-'!wordle GUESS' allows anyone to play a game of wordle, my original whatsapp chatbot function.
+- '!start' gives an overview of instructions.
+- '!add Name Number' allows an attendee to add their name along with number of pax. Subsequent number changes to the same name will reflect the new value.
+- '!add Name 0' removes the attendee fromn the list.
+- '!list' prints the list that shows each attendee's name along with number of pax, and the total number of pax.
+- '!wordle GUESS' allows anyone to play a game of wordle, my original whatsapp chatbot function.
 
 ## Acknowlegements
 
