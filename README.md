@@ -1,4 +1,4 @@
-# Whatsapp-RSVP
+# Whatsapp-RSVP 📝
 
 ## About
 
@@ -18,3 +18,7 @@ Firstly, the host must link their Whatsapp account to the bot.
 ## Acknowlegements
 
 This bot was built using [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js), and taking inspiration from SCSE iLAB: [Create your own WhatsApp Chatbot workshop](https://github.com/LOLIPOP-INTELLIGENCE/Wordle-Workshop).
+
+## Disclaimer
+
+Likewise, this project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
